@@ -18,7 +18,7 @@ This project serves as both a conceptual design and a demonstration of web devel
 
 ## 🚀 Live Demo
 
-🔗 **View Website:** [shoaibtaimur.github.io/first-personal-portfolio](https://shoaibtaimur.github.io/bangladesh-2.0/)
+🔗 **View Website:** [shoaibtaimur.github.io/Bangladesh-2.0/](https://shoaibtaimur.github.io/bangladesh-2.0/)
 
 ---
 
