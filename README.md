@@ -79,6 +79,9 @@ The aim of Bangladesh 2.0 is to:
 ![Screenshot of Bangladesh 2.0](assets/1.png)
 ![Screenshot of Bangladesh 2.0](assets/2.png)
 ![Screenshot of Bangladesh 2.0](assets/3.png)
+![Screenshot of Bangladesh 2.0](assets/4.png)
+![Screenshot of Bangladesh 2.0](assets/5.png)
+![Screenshot of Bangladesh 2.0](assets/6.png)
 
 ---
 
@@ -92,7 +95,7 @@ The aim of Bangladesh 2.0 is to:
 
 ## 📌 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. You can use the code, modify and re-purpose it.
 
 ---
 
