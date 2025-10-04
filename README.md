@@ -53,7 +53,7 @@ Bangladesh-2.0/
 ## 🚀 Installation & Usage
 
 1. **Clone the Repository**
-   git clone https://github.com/YourUsername/Bangladesh-2.0.git
+   git clone https://github.com/ShoaibTaimur/Bangladesh-2.0.git
 
 2. **Open in Browser**
    Navigate to the project folder and open `index.html` in your preferred browser.
