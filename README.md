@@ -1,6 +1,6 @@
 # 🇧🇩 Bangladesh 2.0
 
-**Bangladesh 2.0** is a modern, responsive web project that presents a visionary concept for the future of Bangladesh. The site is designed with a focus on innovation, sustainability, infrastructure, and empowerment — showcasing ideas that represent a roadmap toward a prosperous future.  
+**Bangladesh 2.0** is a modern, responsive web project that presents a visionary concept for the future of Bangladesh. The site is designed with a focus on innovation, sustainability, infrastructure, and empowerment — showcasing ideas that represent a roadmap toward a prosperous future.
 
 This project serves as both a conceptual design and a demonstration of web development skills including HTML, CSS, and modern responsive design principles.
 
@@ -40,16 +40,14 @@ Bangladesh-2.0/
 │   └── quote-bg.png   # Quote section background
 └── README.md
 
-````
+```
 
 ---
 
 ## 🚀 Installation & Usage
 
 1. **Clone the Repository**
-   ```bash
    git clone https://github.com/YourUsername/Bangladesh-2.0.git
-````
 
 2. **Open in Browser**
    Navigate to the project folder and open `index.html` in your preferred browser.
@@ -63,10 +61,10 @@ Bangladesh-2.0/
 
 The aim of Bangladesh 2.0 is to:
 
-* Showcase how a modern web design can represent a visionary concept.
-* Demonstrate a clean and user-friendly layout.
-* Inspire creativity in web development projects.
-* Blend aesthetics with functionality.
+- Showcase how a modern web design can represent a visionary concept.
+- Demonstrate a clean and user-friendly layout.
+- Inspire creativity in web development projects.
+- Blend aesthetics with functionality.
 
 ---
 
@@ -80,9 +78,9 @@ The aim of Bangladesh 2.0 is to:
 
 ## 📜 Credits
 
-* **Design & Development:** MD Shoaib Taimur
-* **Fonts:** [Google Fonts — Fira Sans](https://fonts.google.com/specimen/Fira+Sans)
-* **Icons & Images:** Custom created for the project.
+- **Design & Development:** MD Shoaib Taimur
+- **Fonts:** [Google Fonts — Fira Sans](https://fonts.google.com/specimen/Fira+Sans)
+- **Icons & Images:** Custom created for the project.
 
 ---
 
@@ -92,4 +90,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-💡 *Bangladesh 2.0 — a vision of innovation, sustainability, and progress.*
+💡 _Bangladesh 2.0 — a vision of innovation, sustainability, and progress._
