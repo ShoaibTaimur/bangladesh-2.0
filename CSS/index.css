@@ -734,8 +734,8 @@ header, nav {
   padding: 16px;
   font-family: "Fira Sans", sans-serif;
   font-size: 14px;
-  color: #ffffff;
-  background: #111;
+  color: #000000;
+  background: #ffffff;
   position: relative;
   overflow: hidden;
 }
